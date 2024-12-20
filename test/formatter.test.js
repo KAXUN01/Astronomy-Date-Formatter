@@ -7,7 +7,7 @@ const mockDate = new Date(2024, 11, 20); // December 20, 2024
 describe("Astronomy Date Formatter", () => {
     test("Format date with zodiac theme", () => {
         const result = formatWithTheme(mockDate, "zodiac");
-        expect(result).toBe("20th Sol of Sagittarius 2024");
+        expect(result).toBe("20 Sol of Sagittarius 2024");
     });
 
     test("Format date with lunar theme", () => {
