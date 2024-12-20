@@ -14,6 +14,7 @@ describe("Lunar Phase Calculator", () => {
     });
 
     test("Correct lunar phase name", () => {
+        const mockDate = new Date(2024, 8, 20); // December 20, 2024
         const result = lunarTheme(mockDate);
         expect(result).toMatch(/Lunar Phase: (New Moon|Waxing Crescent|First Quarter|Waxing Gibbous|Full Moon|Waning Gibbous|Last Quarter|Waning Crescent)/);
     });

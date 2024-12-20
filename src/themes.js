@@ -23,7 +23,7 @@ const getLunarPhaseName = (phaseValue) => {
     return "Unknown"; // Fallback for unexpected values
 };
 
-const lunarTheme = (date) => {
+export const lunarTheme = (date) => {
     const lunarData = phase(date); // Fetch lunar phase data
     const phaseName = getLunarPhaseName(lunarData.phase);
     return `Lunar Phase: ${phaseName}`;
