@@ -1,0 +1,19 @@
+{
+  "name": "astronomy-date-formatter",
+  "version": "1.0.0",
+  "description": "A package that formats dates into a fun, astronomy-themed representation. For example, it could convert \"2024-12-20\" into \"20th Sol of Sagittarius 2024.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "astronomy"
+  ],
+  "author": "Kasun Madhushan Wickramasinghe",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "lune": "^0.4.0"
+  }
+}
