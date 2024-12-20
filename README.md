@@ -33,11 +33,11 @@ Formats the given date based on the specified theme.
 
 ### Example
 
-    `const formattedZodiacDate = formatWithTheme(new Date(), 'zodiac');
-     console.log(formattedZodiacDate); // "20th Sol of Sagittarius 2024"
+    const formattedZodiacDate = formatWithTheme(new Date(), 'zodiac');
+    console.log(formattedZodiacDate); // "20th Sol of Sagittarius 2024"
     
     const formattedLunarDate = formatWithTheme(new Date(), 'lunar');
-    console.log(formattedLunarDate); // "Lunar Phase: Full Moon"`
+    console.log(formattedLunarDate); // "Lunar Phase: Full Moon"
 
 ## Contributing
 
