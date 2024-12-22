@@ -1,6 +1,6 @@
 {
   "name": "astronomy-date-formatter",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A package that formats dates into a fun, astronomy-themed representation.It is a JavaScript package designed to format dates using astronomical themes. It supports various themes such as zodiac signs and lunar phases. The package integrates real lunar calculations for enhanced date formatting. For example, it could convert \"2024-12-20\" into \"20th Sol of Sagittarius 2024.",
   "type": "module",
   "main": "src/index.js",

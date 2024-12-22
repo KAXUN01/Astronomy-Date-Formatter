@@ -43,7 +43,7 @@ Formats the given date based on the specified theme.
 
 Contributions to this package are welcome! If you find a bug or have an enhancement idea, please feel free to submit an issue or pull request.
 
-1.  Fork the repository.
+1.  Fork the repository.  https://github.com/KAXUN01/Astronomy-Date-Formatter
 2.  Create a new branch (`git checkout -b feature-branch`).
 3.  Make your changes and commit them (`git commit -m 'Add new feature'`).
 4.  Push to the branch (`git push origin feature-branch`).
