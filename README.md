@@ -1,5 +1,7 @@
 # Astronomy Date Formatter
 
+https://www.npmjs.com/package/astronomy-date-formatter
+
 ## Overview
 
 `astronomy-date-formatter` is a JavaScript package designed to format dates using astronomical themes. It supports various themes such as zodiac signs and lunar phases. The package integrates real lunar calculations for enhanced date formatting.
